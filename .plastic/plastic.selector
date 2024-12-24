@@ -1,0 +1,4 @@
+repository "temp@httpsAKayush@cloud"
+  path "/"
+    br "/main"
+    co "/main"
